@@ -3,7 +3,7 @@
 
 A student who loves to create and share projects about web and mobile technology!
 
-I'm currently active in contributing as Digital Transformation Ministree at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently active in contributing as Digital Transformation Ministree at <a href="https://www.instagram.com/bem_unesa">BEM UNESA</a>
 
 - 🔭 I’m currently working on <a href="https://www.instagram.com/bem_unesa/">BEM UNESA</a>
 - 🌱 I’m currently learning about mobile technology apps
@@ -30,6 +30,5 @@ I'm currently active in contributing as Digital Transformation Ministree at <a h
 
 ### Reach me on
 - <a href="https://linkedin.com/in/yanuarandir/">LinkedIn</a>
-- <a href="https://github.com/yanuarandir">yanuarandir</a>
-- yanuarandir@gmail.com
-- <a href="https://twitter/yanuarandir">Instagram</a>
+- <a href="https://github.com/yanuarandir">GitHub</a>
+- mailto:yanuarandir@gmail.com
