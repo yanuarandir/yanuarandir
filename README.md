@@ -31,4 +31,4 @@ I'm currently active in contributing as Digital Transformation Minister at <a hr
 ### Reach me on
 - <a href="https://linkedin.com/in/yanuarandir/">LinkedIn</a>
 - <a href="https://github.com/yanuarandir">GitHub</a>
-- mailto:yanuarandir@gmail.com
+- <a href="yanuarandir@gmail.com">Email</a>
