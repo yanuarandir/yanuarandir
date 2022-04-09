@@ -3,7 +3,7 @@
 
 A student who loves to create and share projects about web and mobile technology!
 
-I'm currently active in contributing as Digital Transformation Ministree at <a href="https://www.instagram.com/bem_unesa">BEM UNESA</a>
+I'm currently active in contributing as Digital Transformation Minister at <a href="https://www.instagram.com/bem_unesa">BEM UNESA</a>
 
 - 🔭 I’m currently working on <a href="https://www.instagram.com/bem_unesa/">BEM UNESA</a>
 - 🌱 I’m currently learning about mobile technology apps
