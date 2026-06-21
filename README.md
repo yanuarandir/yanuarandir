@@ -1,7 +1,7 @@
 # Bulding Profile
 ### Hi! 👋 I'm Yanuar.
 
-- 🔭 I’m currently Project Manager at <a href="https://www.instagram.com/gdsc_unesa/](https://www.instagram.com/dfactory_/">DFactory Visual/a>
+- 🔭 I’m currently Project Manager at <a href="https://www.instagram.com/gdsc_unesa/](https://www.instagram.com/dfactory_/">DFactory Visual</a>
 - 🌱 I’m currently learning about creative technology
 - 💬 Feel free to ask me about creative things!
 - 📫 How to reach me: yanuarandir@gmail.com
