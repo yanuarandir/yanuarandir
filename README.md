@@ -1,13 +1,9 @@
 # Bulding Profile
 ### Hi! 👋 I'm Yanuar.
 
-A student who loves to create and share projects about web and mobile technology!
-
-I'm currently active in contributing as Digital Transformation Minister at <a href="https://www.instagram.com/bem_unesa">BEM UNESA</a>
-
-- 🔭 I’m currently lead at <a href="https://www.instagram.com/gdsc_unesa/">Google DSC @ UNESA</a>
-- 🌱 I’m currently learning about mobile technology apps
-- 💬 Feel free to ask me about web development or else
+- 🔭 I’m currently Project Manager at <a href="https://www.instagram.com/gdsc_unesa/](https://www.instagram.com/dfactory_/">DFactory Visual/a>
+- 🌱 I’m currently learning about creative technology
+- 💬 Feel free to ask me about creative things!
 - 📫 How to reach me: yanuarandir@gmail.com
 - ⚡ Fun fact: -
 
