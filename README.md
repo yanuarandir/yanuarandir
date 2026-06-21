@@ -1,4 +1,4 @@
-# Bulding Profile
+# Profile
 ### Hi! 👋 I'm Yanuar.
 
 - 🔭 I’m currently Project Manager at <a href="https://www.instagram.com/dfactory_/">DFactory Visual</a>
